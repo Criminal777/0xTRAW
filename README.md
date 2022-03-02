@@ -3,7 +3,7 @@
 <br>
 
 <h1 align="center">Hi there 👋  I'm Crimi🤟</h1>
-<h3 align="center">An enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!<br> First Year Network Engineering Student at University of Zimbabwe</h3>
+<h3 align="center">An enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!<br> First Year Network Engineering Student Saudi arabia </h3>
 
 
 
@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on **#30DaysOfPython #4Hackers**
 - 🌱 I’m currently learning **Linux Command Line & Shell Scripting, Python, Pentesting**
 - 👯 I’m looking to collaborate on **Open Source Projects and Participate in CTFs**
-- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/0xtraw)
+- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/Crimi777)
 - 📝 Trying to write articles on my [Hashnode](https://xtremepentest.hashnode.dev/)
 - 💬 What to expect to learn from me: **Python, Linux, Shell Scripting, Pentesting, Networking**
 - :mailbox: Reach me out! [![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xTRAW)](https://twitter.com/0xTRAW) [![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
@@ -50,7 +50,7 @@ YAML            ░░░░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 #### Github Stats
-![TRÄW's🤟 github stats](https://github-readme-stats.vercel.app/api?username=0xTRAW&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Crimi's🤟 github stats](https://github-readme-stats.vercel.app/api?username=0xTRAW&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 ### Popular Repositories
 [![](https://github-readme-stats.vercel.app/api/pin/?username=0xtraw&repo=PwnLnx&theme=tokyonight)](https://github.com/0xtraw/PwnLnx)
